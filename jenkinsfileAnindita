@@ -1,4 +1,4 @@
-node
+/*node
 {
 def mvnHome
 stage('Preparation')
@@ -58,3 +58,4 @@ sh 'scp  /var/lib/jenkins/workspace/DownloadingArtifact/BookStore-SNAPSHOT-0.0.$
 }
 
 }
+*/
