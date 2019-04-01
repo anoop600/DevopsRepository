@@ -9,5 +9,5 @@ sh 'mvn clean install'
 stage('Sonar Running'){
   sh 'mvn sonar:sonar -Dsonar.host.url=http://my31407dns.eastus2.cloudapp.azure.com'
 }
-}
-*/
+}*/
+
